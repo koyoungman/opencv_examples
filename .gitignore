@@ -27,3 +27,7 @@ Release
 *.vcxproj.user
 ipch
 *sdf
+
+# Setting
+setting/openCV341_x64_v15_debug.props
+setting/openCV341_x64_v15_release.props
